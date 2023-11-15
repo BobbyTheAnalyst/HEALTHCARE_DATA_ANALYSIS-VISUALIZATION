@@ -25,7 +25,9 @@ data by doing the following:
 2. Identifying and removing the outliers
 
 ScreenShot of my_Jupiter's_Note book
-![](jupiter_notebook1)
+
+![](jupiter_notebook1.png)
+
 
 
 There after dataset was imported into Power BI for futher wrangling and transformation
@@ -33,7 +35,22 @@ The following processes where carried out on the data set:
 1. The count and state column eas merged into one column and renamed as Location
 2. A new column called market share was created which was derived by dividing the count column by the market share
 
+   Screenshot of powerQuery in powerBI
+   ![](powerbi_floridaHealthCare.png)
+
 ### Data Visualization
 The data was visualized with Power BI.
-And a dashboard was created.
+Clearly showing major KPI's
+
+![](dashboard_florida.png)
+
+
+### Conclusion
+1. There are 4,524,170 users of medicare in the state of Florida.
+2. Humana has 813,254 users of its service in the state of Florida.
+3. Humana controls 17.98% of the medicare market in the state of Florida
+   
+
+
+
  
