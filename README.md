@@ -24,6 +24,9 @@ data by doing the following:
 1. Identified and removed 9 missing values.
 2. Identifying and removing the outliers
 
+ScreenShot of my_Jupiter's_Note book
+
+
 There after dataset was imported into Power BI for futher wrangling and transformation
 The following processes where carried out on the data set:
 1. The count and state column eas merged into one column and renamed as Location
