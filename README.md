@@ -25,6 +25,7 @@ data by doing the following:
 2. Identifying and removing the outliers
 
 ScreenShot of my_Jupiter's_Note book
+![](jupiter_notebook1)
 
 
 There after dataset was imported into Power BI for futher wrangling and transformation
