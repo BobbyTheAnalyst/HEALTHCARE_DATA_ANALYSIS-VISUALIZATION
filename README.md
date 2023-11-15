@@ -5,14 +5,14 @@ a stand-alone prescription drug plan with a Medicare contract in the state of fl
 And seeks to have an overview/ descriptives analysis of its operations within the state.
 
 ### Problem Statement 
-This project showcases Floridas medicare system and gives a descriptive analysis of 
-how HUMANA medicare operates in the state of florida.
+The state of florida is a state of over 20 million people and Humana our client wants in clear simple terms to know
+how its faring in the state based on its medicare service delivery, by eveluating its key performance indicators
 
 After analytically examining the dataset, 3 questions needs to be answered.
 
-1. How many people are using Medicare in the state and its counties?
-2. How many people are using Humana medicare in the state and its counties?
-3. What is Humana's share of the market in the state of Florida and its couties?
+1. How many people are using Medicare in the state?
+2. How many people are using Humana medicare in the state ?
+3. What is Humana's share of the market in the state of Florida ?
 
 ### Data Sourcing 
 The data was collected from data.gov.
